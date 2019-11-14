@@ -1,8 +1,9 @@
 # React Icon
+React Icon is basically all about using svg icons in react app without writing lines of code.
+
 
 ## npm package
-## install using 
-
+You can directly install npm package using below code
 `npm install ricons`
 
 
