@@ -1,11 +1,11 @@
-#React Icon
+# React Icon
 
-##npm package
-##install using 
+## npm package
+## install using 
 
 `npm install ricons`
 
 
-###usecase :
+### usecase :
 
 `<Ricon src="url"/>`
