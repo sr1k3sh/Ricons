@@ -6,6 +6,6 @@
 `npm install ricons`
 
 
-###usecase:
+###usecase :
 
 `<Ricon src="url"/>`
